@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: osones/demo-concourse-flux:1.0.1
+        image: osones/demo-concourse-flux:1.0.2
         imagePullPolicy: Always
         ports:
         - name: web
