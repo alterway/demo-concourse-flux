@@ -8,7 +8,7 @@
 		text-align: center;
 		padding: 50px;
 		font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: green;
+    color: black;
 	}
 
 	#logo {
